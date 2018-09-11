@@ -1,1 +1,1 @@
-# angular-inventory
+# Inventory System - (Angular)
